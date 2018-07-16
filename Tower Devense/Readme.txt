@@ -1,13 +1,13 @@
-In the demo video you can see my Tower Devense project. Everything was created from scratch.
+In the demo video you can see my Tower Defense project. Everything was created from scratch.
 What I have used: Unity 3D, Visual Studio 2017 and Blender.
 
 :::PLAY PRINCIPLE:::
--The player can build devensive building and send enemy waves to another player
+-The player can build defensive building and send enemy waves to another player
 -On the beginning the each player has a static amount of "Gold" and "Income"
 -Each player earns every [X] secs of his [income] in "Gold"
 -With the sending of enemy waves, each player can increases his "Income"
 -Each player gets [X] "Bounty" as "Gold" after he destroys an enemy
--With higher "Income" and "Gold" the each player unlocks better devensive structures and enemy wave types
+-With higher "Income" and "Gold" the each player unlocks better defensive structures and enemy wave types
 -The first player with 0 "Lives" looses the game
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -21,7 +21,7 @@ RIGHT NOW THERE IS ONLY A TESTABLE VERSION WHERE ONE PLAYER CAN BUILD TOWERS AND
 -If u press an enemy sending button longer then [X] secs, the "Enemys" will be send in Burst mode as long the button keeps to be pressed
 
 :::GAME MECHANICS:::
-DEVENSE TOWERS
+DEFENSE TOWERS
 -With pressing on a build tower button, you can build a tower in a pre defined grid
 -If a tower can not be build on a wished position, it will turn red
 -While tower building, the tower indicates with a circle, how far it can shoot
