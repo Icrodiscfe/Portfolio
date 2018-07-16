@@ -9,9 +9,9 @@ In the demo video you can see my Tower Devense project. Everything was created f
 -With higher "Income" and "Gold" the each player unlocks better devensive structures and enemy wave types.
 -The first player with 0 "Lives" looses the game.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[[[ RIGHT NOW THERE IS ONLY A TESTABLE VERSION WHERE ONE PLAYER CAN BUILD TOWERS AND SEND ENEMYS TO ONESELF ]]]
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RIGHT NOW THERE IS ONLY A TESTABLE VERSION WHERE ONE PLAYER CAN BUILD TOWERS AND SEND ENEMYS TO ONESELF
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 :::UI FEATURES:::
 -On the top you can see the most important stats
