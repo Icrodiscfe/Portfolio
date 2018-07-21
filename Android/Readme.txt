@@ -1,1 +1,3 @@
-In this sample i have worked with android mobile devices. In the script example above you can find a simple example on, how to open a DatePicker on an Android device and get the settings back, with the player has done.
+In this sample i have worked with android mobile devices.
+In the script example above, you can find a simple example of the Androids DatePicker.
+It handles the opening of the DatePicker on the mobile device and receiving back the date, that was setted.
